@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicable */:root{
+    background-color: skyblue;
+}
+
+div.first{
+    background-color: black;
+    color: white;
+
+}
+div.second{
+    color: red;
+}
+.white{
+    background-color: white;
+}
+.grey{
+    background-color: slategray;
+}
+.pink{
+    background-color: pink;
+}
+li{
+    width: 50%;
+    padding: 5px;
+}
